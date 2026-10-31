@@ -1,3 +1,6 @@
 # improved-garbanzo
 Things
+
 https://JDBEST.online
+
+https://crazygames.cdn.msnfun.com/9pltx207s22g/v6/index.html?cgcb=1&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIzNURCQzRCNDAwM0E2QTNGMkY0RkQyM0UwMUQ0NkI5NiIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoiIiwic3dpdGNoR2FtZVBheWxvYWQiOnsic3dpdGNoZWRUbyI6IjlwbHR4MjA3czIyZyIsInZhbHVlIjp7fX19
